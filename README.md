@@ -1,5 +1,11 @@
 # 0x11 C - printf
 
+## Prototype
+`int _printf(const char *format, ...);`
+
+## Compilation
+`$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c`
+
 /*
 
 File: _printf.c
