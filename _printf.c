@@ -1,7 +1,7 @@
 /*
 * File: _printf.c
-* Auths: OLUWASEYI ADEKOYA
-*  CHIAGOZIE IKEJI @ ALX-SCHOOL
+* Auths: BLESSING UDIONG
+*  UCHENNA FRANCIS @ ALX-SCHOOL
 */
 
 #include "main.h"
