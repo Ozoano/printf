@@ -1,7 +1,7 @@
 /*
  * File: modifiers.c
- * Auths: OLUWASEYI ADEKOYA
- *  CHIAGOZIE IKEJI @ ALX-SCHOOL
+ * Auths: Blessing Udiong
+ *  Uchenna Francis @ ALX-SCHOOL
  */
 
 #include "main.h"
@@ -17,7 +17,7 @@ unsigned char flags, int wid);
 * print_width - Stores leading spaces to a buffer for a width modifier.
 * @output: A buffer_t struct containing a character array.
 * @printed: The current number of characters already printed to output
-*           for a given number specifier.
+* for a given number specifier.
 * @flags: Flag modifiers.
 * @wid: A width modifier.
 *
